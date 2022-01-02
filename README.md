@@ -19,6 +19,7 @@ market’s attention and overall attitude
 
 
 Datasets:
-For question 1: We are using datasets scraped from https://coinmarketcap.com/historical/20211001/ ( raw data: crypto.csv).
+For question 1,2: We are using datasets scraped from https://coinmarketcap.com/historical/20211001/ ( raw data: crypto.csv).
 
-For question 2:https://data.world/dmikebishop/crypto-investment-fund-directory and https://www.kaggle.com/kaushiksuresh147/bitcoin-tweets In this question we separately analyzed different datasets. This data cleaning is in the same file with sentiment analysis.
+For question 3:https://data.world/dmikebishop/crypto-investment-fund-directory and https://www.kaggle.com/kaushiksuresh147/bitcoin-tweets In this question we separately analyzed different datasets. (The data is not included in the list of files because of its large size. The dataset can be easily downloaded in this link.)
+This data cleaning is in the same file with sentiment analysis.
