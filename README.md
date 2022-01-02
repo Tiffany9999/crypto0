@@ -3,7 +3,7 @@ Please open our files in sequence
 1. Data cleaning( This notebook will give you the cleaned data to proceed to the next step)
 2. Prediction
 3. Classification
-4. Sentiment Analysis
+4. Sentiment Analysis ( specific data-clearning is included here)
 
 
 
